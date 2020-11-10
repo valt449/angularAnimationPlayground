@@ -123,5 +123,10 @@
       }
     }
   },
-  "defaultProject": "AngularAnimation2"
+  "defaultProject": "AngularAnimation2",
+  "cli": {
+    "warnings": {
+      "versionMismatch": true
+    }
+  }
 }
